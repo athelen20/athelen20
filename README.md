@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @athelen20
 - 👀 I’m interested in Azure
-- 🌱 I’m currently learning AZ-700
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on Azure
 - 📫 How to reach me anjathelen@microsoft.com
 
